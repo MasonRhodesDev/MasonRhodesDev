@@ -74,13 +74,16 @@ const projects = config.sections
       .map(({ name, blurb }) => {
         const r = repoInfo.get(name);
         const rel = releases.get(name);
-        const relCell = rel
-          ? `[${rel.tag_name}](https://github.com/${OWNER}/${name}/releases/latest)`
-          : "—";
-        return `| [**${name}**](https://github.com/${OWNER}/${name}) | ${blurb} | ${relCell} | ${ago(r.pushed_at)} |`;
+        const meta = [
+          rel ? `[${rel.tag_name}](https://github.com/${OWNER}/${name}/releases/latest)` : null,
+          `pushed ${ago(r.pushed_at)}`,
+        ]
+          .filter(Boolean)
+          .join(" · ");
+        return `- [**${name}**](https://github.com/${OWNER}/${name}) — ${blurb} <sub>${meta}</sub>`;
       })
       .join("\n");
-    return `## ${section.title}\n\n| Repo | What it does | Release | Pushed |\n|---|---|---|---|\n${rows}`;
+    return `## ${section.title}\n\n${rows}`;
   })
   .join("\n\n");
 
