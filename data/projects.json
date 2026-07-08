@@ -1,0 +1,34 @@
+{
+  "sections": [
+    {
+      "title": "🖥️ The Hyprland Stuff",
+      "repos": [
+        { "name": "hyprstate", "blurb": "Session state machine — lid events, monitor profiles, lock, suspend, USB wake. Built b/c laptop docking on Wayland is a lie" },
+        { "name": "hyprland-voice-dictation", "blurb": "Offline push-to-talk dictation (Parakeet ASR, all local) that types into any focused window" },
+        { "name": "hyprnotice", "blurb": "Notification daemon with an inbox that keeps the action buttons alive after the popup's gone" },
+        { "name": "sni-watcher", "blurb": "Standalone tray watcher so icons survive bar restarts (looking at you, Electron)" },
+        { "name": "waybar-workspace-buttons", "blurb": "Event-driven workspace buttons for Waybar — no polling, no shelling out" },
+        { "name": "linux-multi-theme-toggle", "blurb": "Whole-desktop light/dark switching with Material You colors, fast enough that you don't watch it happen" },
+        { "name": "logind-idle-control", "blurb": "Per-session idle inhibitors over D-Bus" }
+      ]
+    },
+    {
+      "title": "🎮 The Couch Gaming Stuff",
+      "repos": [
+        { "name": "deck-tenant", "blurb": "Per-Steam-account homes for non-Steam apps on a shared Steam Deck. No more reading my Discord messages" },
+        { "name": "couchcord", "blurb": "Controller-driven Discord voice control + overlay for gamescope sessions — join, leave, see who's talking, without alt-tabbing out of the game" },
+        { "name": "greetd_game_mode", "blurb": "Hit the Guide button at the login screen, get Big Picture" },
+        { "name": "steam-notes", "blurb": "Field notes from digging around Steam client internals so you don't have to" }
+      ]
+    },
+    {
+      "title": "📦 The Glue",
+      "repos": [
+        { "name": "arch-repo", "blurb": "Self-hosted pacman repo served from GitHub Pages — where the tools above ship from" },
+        { "name": "packaging-workflows", "blurb": "Reusable GH Actions for Arch + COPR packaging" },
+        { "name": "greetd-config", "blurb": "greetd + regreet login manager setup — multi-distro, symlink installer, optional game mode" },
+        { "name": "dotfiles", "blurb": "Holding all of the above together" }
+      ]
+    }
+  ]
+}
