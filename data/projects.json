@@ -5,7 +5,6 @@
       "repos": [
         { "name": "hyprstate", "blurb": "Session state machine for lid events, monitor profiles, lock, suspend, and USB wake" },
         { "name": "hyprland-voice-dictation", "blurb": "Offline push-to-talk dictation (Parakeet ASR, all local) that types into any focused window" },
-        { "name": "hyprnotice", "blurb": "Notification daemon with an inbox that keeps action buttons available after the popup is gone" },
         { "name": "sni-watcher", "blurb": "Standalone tray watcher so icons survive bar restarts" },
         { "name": "waybar-workspace-buttons", "blurb": "Event-driven workspace buttons for Waybar, no polling or shelling out" },
         { "name": "linux-multi-theme-toggle", "blurb": "Whole-desktop light/dark switching with Material You colors" },
