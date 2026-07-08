@@ -80,7 +80,7 @@ const projects = config.sections
         ]
           .filter(Boolean)
           .join(" · ");
-        return `- [**${name}**](https://github.com/${OWNER}/${name}) — ${blurb} <sub>${meta}</sub>`;
+        return `- [**${name}**](https://github.com/${OWNER}/${name}): ${blurb} <sub>${meta}</sub>`;
       })
       .join("\n");
     return `## ${section.title}\n\n${rows}`;
@@ -93,7 +93,7 @@ const recent = [...releases.entries()]
   .slice(0, 5)
   .map(
     ({ name, rel }) =>
-      `- [**${name}** ${rel.tag_name}](${rel.html_url}) — ${ago(rel.published_at)}`,
+      `- [**${name}** ${rel.tag_name}](${rel.html_url}) <sub>${ago(rel.published_at)}</sub>`,
   )
   .join("\n");
 
