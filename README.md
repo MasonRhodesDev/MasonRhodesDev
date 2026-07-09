@@ -32,14 +32,14 @@ TypeScript at [LifeMD](https://lifemd.com) during the day. Outside of work I bui
 - [**deck-tenant**](https://github.com/MasonRhodesDev/deck-tenant): Per-Steam-account homes for non-Steam apps on a shared Steam Deck <sub>[v0.2.0](https://github.com/MasonRhodesDev/deck-tenant/releases/latest) · pushed today</sub>
 - [**couchcord**](https://github.com/MasonRhodesDev/couchcord): Controller-driven Discord voice control and overlay for gamescope sessions. Join, leave, and see who's talking without leaving the game <sub>[v0.1.0](https://github.com/MasonRhodesDev/couchcord/releases/latest) · pushed today</sub>
 - [**greetd_game_mode**](https://github.com/MasonRhodesDev/greetd_game_mode): Hit the Guide button at the login screen, get Big Picture <sub>[v0.1.1](https://github.com/MasonRhodesDev/greetd_game_mode/releases/latest) · pushed today</sub>
-- [**steam-notes**](https://github.com/MasonRhodesDev/steam-notes): Field notes on Steam client internals <sub>pushed 3d ago</sub>
+- [**steam-notes**](https://github.com/MasonRhodesDev/steam-notes): Field notes on Steam client internals <sub>pushed 4d ago</sub>
 
 ## 📦 The Glue
 
 - [**arch-repo**](https://github.com/MasonRhodesDev/arch-repo): Self-hosted pacman repo served from GitHub Pages, where the tools above ship from <sub>pushed today</sub>
 - [**packaging-workflows**](https://github.com/MasonRhodesDev/packaging-workflows): Reusable GH Actions for Arch + COPR packaging <sub>pushed today</sub>
 - [**greetd-config**](https://github.com/MasonRhodesDev/greetd-config): greetd + regreet login manager setup with multi-distro support and optional game mode <sub>pushed today</sub>
-- [**dotfiles**](https://github.com/MasonRhodesDev/dotfiles): The config tying everything together <sub>pushed today</sub>
+- [**dotfiles**](https://github.com/MasonRhodesDev/dotfiles): The config tying everything together <sub>pushed yesterday</sub>
 <!-- PROJECTS:END -->
 
 ## ⬇️ Run It Yourself
@@ -57,11 +57,11 @@ then `sudo pacman -S hyprstate sni-watcher ...` as usual. Works on Steam Deck to
 ## 🚀 Recent Releases
 
 <!-- RELEASES:START -->
-- [**hyprstate** v2.1.1](https://github.com/MasonRhodesDev/hyprstate/releases/tag/v2.1.1) <sub>today</sub>
-- [**hyprland-voice-dictation** v0.4.0](https://github.com/MasonRhodesDev/hyprland-voice-dictation/releases/tag/v0.4.0) <sub>3d ago</sub>
-- [**greetd_game_mode** v0.1.1](https://github.com/MasonRhodesDev/greetd_game_mode/releases/tag/v0.1.1) <sub>5d ago</sub>
-- [**linux-multi-theme-toggle** v0.1.0](https://github.com/MasonRhodesDev/linux-multi-theme-toggle/releases/tag/v0.1.0) <sub>5d ago</sub>
-- [**couchcord** v0.1.0](https://github.com/MasonRhodesDev/couchcord/releases/tag/v0.1.0) <sub>5d ago</sub>
+- [**hyprstate** v2.1.1](https://github.com/MasonRhodesDev/hyprstate/releases/tag/v2.1.1) <sub>yesterday</sub>
+- [**hyprland-voice-dictation** v0.4.0](https://github.com/MasonRhodesDev/hyprland-voice-dictation/releases/tag/v0.4.0) <sub>4d ago</sub>
+- [**greetd_game_mode** v0.1.1](https://github.com/MasonRhodesDev/greetd_game_mode/releases/tag/v0.1.1) <sub>6d ago</sub>
+- [**linux-multi-theme-toggle** v0.1.0](https://github.com/MasonRhodesDev/linux-multi-theme-toggle/releases/tag/v0.1.0) <sub>6d ago</sub>
+- [**couchcord** v0.1.0](https://github.com/MasonRhodesDev/couchcord/releases/tag/v0.1.0) <sub>6d ago</sub>
 <!-- RELEASES:END -->
 
 ---
