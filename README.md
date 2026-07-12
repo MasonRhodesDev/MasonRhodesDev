@@ -20,26 +20,26 @@ TypeScript at [LifeMD](https://lifemd.com) during the day. Outside of work I bui
 <!-- PROJECTS:START -->
 ## 🖥️ The Hyprland Stuff
 
-- [**hyprstate**](https://github.com/MasonRhodesDev/hyprstate): Session state machine for lid events, monitor profiles, lock, suspend, and USB wake <sub>[v2.1.1](https://github.com/MasonRhodesDev/hyprstate/releases/latest) · pushed 2d ago</sub>
-- [**hyprland-voice-dictation**](https://github.com/MasonRhodesDev/hyprland-voice-dictation): Offline push-to-talk dictation (Parakeet ASR, all local) that types into any focused window <sub>[v0.4.0](https://github.com/MasonRhodesDev/hyprland-voice-dictation/releases/latest) · pushed 2d ago</sub>
-- [**sni-watcher**](https://github.com/MasonRhodesDev/sni-watcher): Standalone tray watcher so icons survive bar restarts <sub>[v0.1.1](https://github.com/MasonRhodesDev/sni-watcher/releases/latest) · pushed 2d ago</sub>
-- [**waybar-workspace-buttons**](https://github.com/MasonRhodesDev/waybar-workspace-buttons): Event-driven workspace buttons for Waybar, no polling or shelling out <sub>pushed 2d ago</sub>
-- [**linux-multi-theme-toggle**](https://github.com/MasonRhodesDev/linux-multi-theme-toggle): Whole-desktop light/dark switching with Material You colors <sub>[v0.1.0](https://github.com/MasonRhodesDev/linux-multi-theme-toggle/releases/latest) · pushed 2d ago</sub>
-- [**logind-idle-control**](https://github.com/MasonRhodesDev/logind-idle-control): Per-session idle inhibitors over D-Bus <sub>[v0.2.0](https://github.com/MasonRhodesDev/logind-idle-control/releases/latest) · pushed 2d ago</sub>
+- [**hyprstate**](https://github.com/MasonRhodesDev/hyprstate): Session state machine for lid events, monitor profiles, lock, suspend, and USB wake <sub>[v2.1.1](https://github.com/MasonRhodesDev/hyprstate/releases/latest) · pushed 3d ago</sub>
+- [**hyprland-voice-dictation**](https://github.com/MasonRhodesDev/hyprland-voice-dictation): Offline push-to-talk dictation (Parakeet ASR, all local) that types into any focused window <sub>[v0.4.0](https://github.com/MasonRhodesDev/hyprland-voice-dictation/releases/latest) · pushed 3d ago</sub>
+- [**sni-watcher**](https://github.com/MasonRhodesDev/sni-watcher): Standalone tray watcher so icons survive bar restarts <sub>[v0.1.1](https://github.com/MasonRhodesDev/sni-watcher/releases/latest) · pushed 3d ago</sub>
+- [**waybar-workspace-buttons**](https://github.com/MasonRhodesDev/waybar-workspace-buttons): Event-driven workspace buttons for Waybar, no polling or shelling out <sub>pushed 3d ago</sub>
+- [**linux-multi-theme-toggle**](https://github.com/MasonRhodesDev/linux-multi-theme-toggle): Whole-desktop light/dark switching with Material You colors <sub>[v0.1.0](https://github.com/MasonRhodesDev/linux-multi-theme-toggle/releases/latest) · pushed 3d ago</sub>
+- [**logind-idle-control**](https://github.com/MasonRhodesDev/logind-idle-control): Per-session idle inhibitors over D-Bus <sub>[v0.2.0](https://github.com/MasonRhodesDev/logind-idle-control/releases/latest) · pushed 3d ago</sub>
 
 ## 🎮 The Couch Gaming Stuff
 
-- [**deck-tenant**](https://github.com/MasonRhodesDev/deck-tenant): Per-Steam-account homes for non-Steam apps on a shared Steam Deck <sub>[v0.2.0](https://github.com/MasonRhodesDev/deck-tenant/releases/latest) · pushed 2d ago</sub>
-- [**couchcord**](https://github.com/MasonRhodesDev/couchcord): Controller-driven Discord voice control and overlay for gamescope sessions. Join, leave, and see who's talking without leaving the game <sub>[v0.1.0](https://github.com/MasonRhodesDev/couchcord/releases/latest) · pushed 2d ago</sub>
-- [**greetd_game_mode**](https://github.com/MasonRhodesDev/greetd_game_mode): Hit the Guide button at the login screen, get Big Picture <sub>[v0.1.1](https://github.com/MasonRhodesDev/greetd_game_mode/releases/latest) · pushed 2d ago</sub>
-- [**steam-notes**](https://github.com/MasonRhodesDev/steam-notes): Field notes on Steam client internals <sub>pushed 6d ago</sub>
+- [**deck-tenant**](https://github.com/MasonRhodesDev/deck-tenant): Per-Steam-account homes for non-Steam apps on a shared Steam Deck <sub>[v0.2.0](https://github.com/MasonRhodesDev/deck-tenant/releases/latest) · pushed 3d ago</sub>
+- [**couchcord**](https://github.com/MasonRhodesDev/couchcord): Controller-driven Discord voice control and overlay for gamescope sessions. Join, leave, and see who's talking without leaving the game <sub>[v0.1.0](https://github.com/MasonRhodesDev/couchcord/releases/latest) · pushed 3d ago</sub>
+- [**greetd_game_mode**](https://github.com/MasonRhodesDev/greetd_game_mode): Hit the Guide button at the login screen, get Big Picture <sub>[v0.1.1](https://github.com/MasonRhodesDev/greetd_game_mode/releases/latest) · pushed 3d ago</sub>
+- [**steam-notes**](https://github.com/MasonRhodesDev/steam-notes): Field notes on Steam client internals <sub>pushed 7d ago</sub>
 
 ## 📦 The Glue
 
-- [**arch-repo**](https://github.com/MasonRhodesDev/arch-repo): Self-hosted pacman repo served from GitHub Pages, where the tools above ship from <sub>pushed 2d ago</sub>
-- [**packaging-workflows**](https://github.com/MasonRhodesDev/packaging-workflows): Reusable GH Actions for Arch + COPR packaging <sub>pushed 2d ago</sub>
-- [**greetd-config**](https://github.com/MasonRhodesDev/greetd-config): greetd + regreet login manager setup with multi-distro support and optional game mode <sub>pushed 2d ago</sub>
-- [**dotfiles**](https://github.com/MasonRhodesDev/dotfiles): The config tying everything together <sub>pushed 3d ago</sub>
+- [**arch-repo**](https://github.com/MasonRhodesDev/arch-repo): Self-hosted pacman repo served from GitHub Pages, where the tools above ship from <sub>pushed 3d ago</sub>
+- [**packaging-workflows**](https://github.com/MasonRhodesDev/packaging-workflows): Reusable GH Actions for Arch + COPR packaging <sub>pushed 3d ago</sub>
+- [**greetd-config**](https://github.com/MasonRhodesDev/greetd-config): greetd + regreet login manager setup with multi-distro support and optional game mode <sub>pushed 3d ago</sub>
+- [**dotfiles**](https://github.com/MasonRhodesDev/dotfiles): The config tying everything together <sub>pushed 4d ago</sub>
 <!-- PROJECTS:END -->
 
 ## ⬇️ Run It Yourself
@@ -57,11 +57,11 @@ then `sudo pacman -S hyprstate sni-watcher ...` as usual. Works on Steam Deck to
 ## 🚀 Recent Releases
 
 <!-- RELEASES:START -->
-- [**hyprstate** v2.1.1](https://github.com/MasonRhodesDev/hyprstate/releases/tag/v2.1.1) <sub>3d ago</sub>
-- [**hyprland-voice-dictation** v0.4.0](https://github.com/MasonRhodesDev/hyprland-voice-dictation/releases/tag/v0.4.0) <sub>6d ago</sub>
-- [**greetd_game_mode** v0.1.1](https://github.com/MasonRhodesDev/greetd_game_mode/releases/tag/v0.1.1) <sub>8d ago</sub>
-- [**linux-multi-theme-toggle** v0.1.0](https://github.com/MasonRhodesDev/linux-multi-theme-toggle/releases/tag/v0.1.0) <sub>8d ago</sub>
-- [**couchcord** v0.1.0](https://github.com/MasonRhodesDev/couchcord/releases/tag/v0.1.0) <sub>8d ago</sub>
+- [**hyprstate** v2.1.1](https://github.com/MasonRhodesDev/hyprstate/releases/tag/v2.1.1) <sub>4d ago</sub>
+- [**hyprland-voice-dictation** v0.4.0](https://github.com/MasonRhodesDev/hyprland-voice-dictation/releases/tag/v0.4.0) <sub>7d ago</sub>
+- [**greetd_game_mode** v0.1.1](https://github.com/MasonRhodesDev/greetd_game_mode/releases/tag/v0.1.1) <sub>9d ago</sub>
+- [**linux-multi-theme-toggle** v0.1.0](https://github.com/MasonRhodesDev/linux-multi-theme-toggle/releases/tag/v0.1.0) <sub>9d ago</sub>
+- [**couchcord** v0.1.0](https://github.com/MasonRhodesDev/couchcord/releases/tag/v0.1.0) <sub>9d ago</sub>
 <!-- RELEASES:END -->
 
 ---
