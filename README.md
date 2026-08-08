@@ -20,26 +20,26 @@ TypeScript at [LifeMD](https://lifemd.com) during the day. Outside of work I bui
 <!-- PROJECTS:START -->
 ## 🖥️ The Hyprland Stuff
 
-- [**hyprstate**](https://github.com/MasonRhodesDev/hyprstate): Session state machine for lid events, monitor profiles, lock, suspend, and USB wake <sub>[v2.1.3](https://github.com/MasonRhodesDev/hyprstate/releases/latest) · pushed today</sub>
-- [**hyprland-voice-dictation**](https://github.com/MasonRhodesDev/hyprland-voice-dictation): Offline push-to-talk dictation (Parakeet ASR, all local) that types into any focused window <sub>[v0.5.1](https://github.com/MasonRhodesDev/hyprland-voice-dictation/releases/latest) · pushed 13d ago</sub>
+- [**hyprstate**](https://github.com/MasonRhodesDev/hyprstate): Session state machine for lid events, monitor profiles, lock, suspend, and USB wake <sub>[v2.1.3](https://github.com/MasonRhodesDev/hyprstate/releases/latest) · pushed yesterday</sub>
+- [**hyprland-voice-dictation**](https://github.com/MasonRhodesDev/hyprland-voice-dictation): Offline push-to-talk dictation (Parakeet ASR, all local) that types into any focused window <sub>[v0.5.1](https://github.com/MasonRhodesDev/hyprland-voice-dictation/releases/latest) · pushed 2w ago</sub>
 - [**sni-watcher**](https://github.com/MasonRhodesDev/sni-watcher): Standalone tray watcher so icons survive bar restarts <sub>[v0.1.1](https://github.com/MasonRhodesDev/sni-watcher/releases/latest) · pushed 4w ago</sub>
-- [**waybar-workspace-buttons**](https://github.com/MasonRhodesDev/waybar-workspace-buttons): Event-driven workspace buttons for Waybar, no polling or shelling out <sub>[v1.0.1](https://github.com/MasonRhodesDev/waybar-workspace-buttons/releases/latest) · pushed 2d ago</sub>
-- [**linux-multi-theme-toggle**](https://github.com/MasonRhodesDev/linux-multi-theme-toggle): Whole-desktop light/dark switching with Material You colors <sub>[v0.2.0](https://github.com/MasonRhodesDev/linux-multi-theme-toggle/releases/latest) · pushed 2d ago</sub>
+- [**waybar-workspace-buttons**](https://github.com/MasonRhodesDev/waybar-workspace-buttons): Event-driven workspace buttons for Waybar, no polling or shelling out <sub>[v1.0.1](https://github.com/MasonRhodesDev/waybar-workspace-buttons/releases/latest) · pushed 3d ago</sub>
+- [**linux-multi-theme-toggle**](https://github.com/MasonRhodesDev/linux-multi-theme-toggle): Whole-desktop light/dark switching with Material You colors <sub>[v0.2.0](https://github.com/MasonRhodesDev/linux-multi-theme-toggle/releases/latest) · pushed 3d ago</sub>
 - [**logind-idle-control**](https://github.com/MasonRhodesDev/logind-idle-control): Per-session idle inhibitors over D-Bus <sub>[v0.2.1](https://github.com/MasonRhodesDev/logind-idle-control/releases/latest) · pushed 3w ago</sub>
 
 ## 🎮 The Couch Gaming Stuff
 
 - [**deck-tenant**](https://github.com/MasonRhodesDev/deck-tenant): Per-Steam-account homes for non-Steam apps on a shared Steam Deck <sub>[v0.3.1](https://github.com/MasonRhodesDev/deck-tenant/releases/latest) · pushed 3w ago</sub>
 - [**couchcord**](https://github.com/MasonRhodesDev/couchcord): Controller-driven Discord voice control and overlay for gamescope sessions. Join, leave, and see who's talking without leaving the game <sub>[v0.1.0](https://github.com/MasonRhodesDev/couchcord/releases/latest) · pushed 4w ago</sub>
-- [**greetd_game_mode**](https://github.com/MasonRhodesDev/greetd_game_mode): Hit the Guide button at the login screen, get Big Picture <sub>[v0.1.5](https://github.com/MasonRhodesDev/greetd_game_mode/releases/latest) · pushed yesterday</sub>
+- [**greetd_game_mode**](https://github.com/MasonRhodesDev/greetd_game_mode): Hit the Guide button at the login screen, get Big Picture <sub>[v0.1.5](https://github.com/MasonRhodesDev/greetd_game_mode/releases/latest) · pushed 2d ago</sub>
 - [**steam-notes**](https://github.com/MasonRhodesDev/steam-notes): Field notes on Steam client internals <sub>pushed 4w ago</sub>
 
 ## 📦 The Glue
 
-- [**arch-repo**](https://github.com/MasonRhodesDev/arch-repo): Self-hosted pacman repo served from GitHub Pages, where the tools above ship from <sub>pushed yesterday</sub>
-- [**packaging-workflows**](https://github.com/MasonRhodesDev/packaging-workflows): Reusable GH Actions for Arch + COPR packaging <sub>pushed 2d ago</sub>
+- [**arch-repo**](https://github.com/MasonRhodesDev/arch-repo): Self-hosted pacman repo served from GitHub Pages, where the tools above ship from <sub>pushed 2d ago</sub>
+- [**packaging-workflows**](https://github.com/MasonRhodesDev/packaging-workflows): Reusable GH Actions for Arch + COPR packaging <sub>pushed 3d ago</sub>
 - [**greetd-config**](https://github.com/MasonRhodesDev/greetd-config): greetd + regreet login manager setup with multi-distro support and optional game mode <sub>pushed 4w ago</sub>
-- [**dotfiles**](https://github.com/MasonRhodesDev/dotfiles): The config tying everything together <sub>pushed yesterday</sub>
+- [**dotfiles**](https://github.com/MasonRhodesDev/dotfiles): The config tying everything together <sub>pushed 2d ago</sub>
 <!-- PROJECTS:END -->
 
 ## ⬇️ Run It Yourself
@@ -57,10 +57,10 @@ then `sudo pacman -S hyprstate sni-watcher ...` as usual. Works on Steam Deck to
 ## 🚀 Recent Releases
 
 <!-- RELEASES:START -->
-- [**vigil** v0.2.2](https://github.com/MasonRhodesDev/vigil/releases/tag/v0.2.2) <sub>today</sub>
-- [**hypr-DE** v0.2.0](https://github.com/MasonRhodesDev/hypr-DE/releases/tag/v0.2.0) <sub>2d ago</sub>
-- [**linux-multi-theme-toggle** v0.2.0](https://github.com/MasonRhodesDev/linux-multi-theme-toggle/releases/tag/v0.2.0) <sub>2d ago</sub>
-- [**hyprland-voice-dictation** v0.5.1](https://github.com/MasonRhodesDev/hyprland-voice-dictation/releases/tag/v0.5.1) <sub>13d ago</sub>
+- [**vigil** v0.2.2](https://github.com/MasonRhodesDev/vigil/releases/tag/v0.2.2) <sub>yesterday</sub>
+- [**hypr-DE** v0.2.0](https://github.com/MasonRhodesDev/hypr-DE/releases/tag/v0.2.0) <sub>3d ago</sub>
+- [**linux-multi-theme-toggle** v0.2.0](https://github.com/MasonRhodesDev/linux-multi-theme-toggle/releases/tag/v0.2.0) <sub>3d ago</sub>
+- [**hyprland-voice-dictation** v0.5.1](https://github.com/MasonRhodesDev/hyprland-voice-dictation/releases/tag/v0.5.1) <sub>2w ago</sub>
 - [**hyprstate** v2.1.3](https://github.com/MasonRhodesDev/hyprstate/releases/tag/v2.1.3) <sub>2w ago</sub>
 <!-- RELEASES:END -->
 
