@@ -3,11 +3,14 @@
     {
       "title": "🖥️ The Hyprland Stuff",
       "repos": [
+        { "name": "hypr-DE", "blurb": "Opinionated Hyprland desktop — packaged session, theming, and defaults" },
+        { "name": "vigil", "blurb": "Compositor-less greetd greeter and matching session lock" },
         { "name": "hyprstate", "blurb": "Session state machine for lid events, monitor profiles, lock, suspend, and USB wake" },
+        { "name": "hyprstate-gui", "blurb": "Slint Displays and power configurator for hyprstate" },
+        { "name": "linux-multi-theme-toggle", "blurb": "Whole-desktop light/dark switching with Material You colors" },
         { "name": "hyprland-voice-dictation", "blurb": "Offline push-to-talk dictation (Parakeet ASR, all local) that types into any focused window" },
         { "name": "sni-watcher", "blurb": "Standalone tray watcher so icons survive bar restarts" },
         { "name": "waybar-workspace-buttons", "blurb": "Event-driven workspace buttons for Waybar, no polling or shelling out" },
-        { "name": "linux-multi-theme-toggle", "blurb": "Whole-desktop light/dark switching with Material You colors" },
         { "name": "logind-idle-control", "blurb": "Per-session idle inhibitors over D-Bus" }
       ]
     },
@@ -23,9 +26,10 @@
     {
       "title": "📦 The Glue",
       "repos": [
-        { "name": "arch-repo", "blurb": "Self-hosted pacman repo served from GitHub Pages, where the tools above ship from" },
+        { "name": "arch-repo", "blurb": "Signed pacman repo on GitHub Pages, where the tools above ship from" },
         { "name": "packaging-workflows", "blurb": "Reusable GH Actions for Arch + COPR packaging" },
-        { "name": "greetd-config", "blurb": "greetd + regreet login manager setup with multi-distro support and optional game mode" },
+        { "name": "monitor-profiles", "blurb": "Neutral monitor layout profiles shared by session and login" },
+        { "name": "slint-kit", "blurb": "Shared Slint theme and LMTT Material You tokens" },
         { "name": "dotfiles", "blurb": "The config tying everything together" }
       ]
     }
