@@ -20,7 +20,6 @@ TypeScript at [LifeMD](https://lifemd.com) during the day. Outside of work I bui
 <!-- PROJECTS:START -->
 ## 🖥️ The Hyprland Stuff
 
-- [**hypr-DE**](https://github.com/MasonRhodesDev/hypr-DE): Opinionated Hyprland desktop — packaged session, theming, and defaults <sub>[v0.2.1](https://github.com/MasonRhodesDev/hypr-DE/releases/latest) · pushed today</sub>
 - [**vigil**](https://github.com/MasonRhodesDev/vigil): Compositor-less greetd greeter and matching session lock <sub>[v0.2.5](https://github.com/MasonRhodesDev/vigil/releases/latest) · pushed today</sub>
 - [**hyprstate**](https://github.com/MasonRhodesDev/hyprstate): Session state machine for lid events, monitor profiles, lock, suspend, and USB wake <sub>[v2.2.0](https://github.com/MasonRhodesDev/hyprstate/releases/latest) · pushed today</sub>
 - [**hyprstate-gui**](https://github.com/MasonRhodesDev/hyprstate-gui): Slint Displays and power configurator for hyprstate <sub>[v0.3.0](https://github.com/MasonRhodesDev/hyprstate-gui/releases/latest) · pushed today</sub>
@@ -29,6 +28,7 @@ TypeScript at [LifeMD](https://lifemd.com) during the day. Outside of work I bui
 - [**sni-watcher**](https://github.com/MasonRhodesDev/sni-watcher): Standalone tray watcher so icons survive bar restarts <sub>[v0.1.1](https://github.com/MasonRhodesDev/sni-watcher/releases/latest) · pushed today</sub>
 - [**waybar-workspace-buttons**](https://github.com/MasonRhodesDev/waybar-workspace-buttons): Event-driven workspace buttons for Waybar, no polling or shelling out <sub>[v1.0.1](https://github.com/MasonRhodesDev/waybar-workspace-buttons/releases/latest) · pushed today</sub>
 - [**logind-idle-control**](https://github.com/MasonRhodesDev/logind-idle-control): Per-session idle inhibitors over D-Bus <sub>[v0.2.1](https://github.com/MasonRhodesDev/logind-idle-control/releases/latest) · pushed today</sub>
+- [**hypr-DE**](https://github.com/MasonRhodesDev/hypr-DE): Alpha desktop composition — not ready; the tools above have to stabilize first <sub>[v0.2.1](https://github.com/MasonRhodesDev/hypr-DE/releases/latest) · pushed today</sub>
 
 ## 🎮 The Couch Gaming Stuff
 
@@ -70,7 +70,7 @@ SigLevel = Required DatabaseRequired
 Server = https://masonrhodesdev.github.io/arch-repo/x86_64
 ```
 
-`sudo pacman -Syu && sudo pacman -S hypr-de` gets the desktop. Individual tools (`hyprstate`, `vigil`, `sni-watcher`, ...) install the same way. Works on Steam Deck too, via [deck-tenant](https://github.com/MasonRhodesDev/deck-tenant)'s rootless pacman root.
+Then `sudo pacman -Syu` and install the individual tools (`hyprstate`, `vigil`, `sni-watcher`, ...). `hypr-de` is alpha and not the entry point yet. Works on Steam Deck too, via [deck-tenant](https://github.com/MasonRhodesDev/deck-tenant)'s rootless pacman root.
 
 ## 🚀 Recent Releases
 

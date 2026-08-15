@@ -3,7 +3,6 @@
     {
       "title": "🖥️ The Hyprland Stuff",
       "repos": [
-        { "name": "hypr-DE", "blurb": "Opinionated Hyprland desktop — packaged session, theming, and defaults" },
         { "name": "vigil", "blurb": "Compositor-less greetd greeter and matching session lock" },
         { "name": "hyprstate", "blurb": "Session state machine for lid events, monitor profiles, lock, suspend, and USB wake" },
         { "name": "hyprstate-gui", "blurb": "Slint Displays and power configurator for hyprstate" },
@@ -11,7 +10,8 @@
         { "name": "hyprland-voice-dictation", "blurb": "Offline push-to-talk dictation (Parakeet ASR, all local) that types into any focused window" },
         { "name": "sni-watcher", "blurb": "Standalone tray watcher so icons survive bar restarts" },
         { "name": "waybar-workspace-buttons", "blurb": "Event-driven workspace buttons for Waybar, no polling or shelling out" },
-        { "name": "logind-idle-control", "blurb": "Per-session idle inhibitors over D-Bus" }
+        { "name": "logind-idle-control", "blurb": "Per-session idle inhibitors over D-Bus" },
+        { "name": "hypr-DE", "blurb": "Alpha desktop composition — not ready; the tools above have to stabilize first" }
       ]
     },
     {
