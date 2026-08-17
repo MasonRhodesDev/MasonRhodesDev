@@ -20,15 +20,15 @@ TypeScript at [LifeMD](https://lifemd.com) during the day. Outside of work I bui
 <!-- PROJECTS:START -->
 ## 🖥️ The Hyprland Stuff
 
-- [**vigil**](https://github.com/MasonRhodesDev/vigil): Compositor-less greetd greeter and matching session lock <sub>[v0.2.5](https://github.com/MasonRhodesDev/vigil/releases/latest) · pushed today</sub>
-- [**hyprstate**](https://github.com/MasonRhodesDev/hyprstate): Session state machine for lid events, monitor profiles, lock, suspend, and USB wake <sub>[v2.2.0](https://github.com/MasonRhodesDev/hyprstate/releases/latest) · pushed today</sub>
-- [**hyprstate-gui**](https://github.com/MasonRhodesDev/hyprstate-gui): Slint Displays and power configurator for hyprstate <sub>[v0.3.0](https://github.com/MasonRhodesDev/hyprstate-gui/releases/latest) · pushed today</sub>
+- [**vigil**](https://github.com/MasonRhodesDev/vigil): Compositor-less greetd greeter and matching session lock <sub>[v0.2.8](https://github.com/MasonRhodesDev/vigil/releases/latest) · pushed today</sub>
+- [**hyprstate**](https://github.com/MasonRhodesDev/hyprstate): Session state machine for lid events, monitor profiles, lock, suspend, and USB wake <sub>[v2.2.3](https://github.com/MasonRhodesDev/hyprstate/releases/latest) · pushed today</sub>
+- [**hyprstate-gui**](https://github.com/MasonRhodesDev/hyprstate-gui): Slint Displays and power configurator for hyprstate <sub>[v0.3.2](https://github.com/MasonRhodesDev/hyprstate-gui/releases/latest) · pushed today</sub>
 - [**linux-multi-theme-toggle**](https://github.com/MasonRhodesDev/linux-multi-theme-toggle): Whole-desktop light/dark switching with Material You colors <sub>[v0.2.2](https://github.com/MasonRhodesDev/linux-multi-theme-toggle/releases/latest) · pushed today</sub>
-- [**hyprland-voice-dictation**](https://github.com/MasonRhodesDev/hyprland-voice-dictation): Offline push-to-talk dictation (Parakeet ASR, all local) that types into any focused window <sub>[v0.5.1](https://github.com/MasonRhodesDev/hyprland-voice-dictation/releases/latest) · pushed today</sub>
+- [**hyprland-voice-dictation**](https://github.com/MasonRhodesDev/hyprland-voice-dictation): Offline push-to-talk dictation (Parakeet ASR, all local) that types into any focused window <sub>[v0.5.2](https://github.com/MasonRhodesDev/hyprland-voice-dictation/releases/latest) · pushed today</sub>
 - [**sni-watcher**](https://github.com/MasonRhodesDev/sni-watcher): Standalone tray watcher so icons survive bar restarts <sub>[v0.1.1](https://github.com/MasonRhodesDev/sni-watcher/releases/latest) · pushed today</sub>
-- [**waybar-workspace-buttons**](https://github.com/MasonRhodesDev/waybar-workspace-buttons): Event-driven workspace buttons for Waybar, no polling or shelling out <sub>[v1.0.1](https://github.com/MasonRhodesDev/waybar-workspace-buttons/releases/latest) · pushed today</sub>
-- [**logind-idle-control**](https://github.com/MasonRhodesDev/logind-idle-control): Per-session idle inhibitors over D-Bus <sub>[v0.2.1](https://github.com/MasonRhodesDev/logind-idle-control/releases/latest) · pushed today</sub>
-- [**hypr-DE**](https://github.com/MasonRhodesDev/hypr-DE): Alpha desktop composition — not ready; the tools above have to stabilize first <sub>[v0.2.1](https://github.com/MasonRhodesDev/hypr-DE/releases/latest) · pushed today</sub>
+- [**waybar-workspace-buttons**](https://github.com/MasonRhodesDev/waybar-workspace-buttons): Event-driven workspace buttons for Waybar, no polling or shelling out <sub>[v1.0.3](https://github.com/MasonRhodesDev/waybar-workspace-buttons/releases/latest) · pushed today</sub>
+- [**logind-idle-control**](https://github.com/MasonRhodesDev/logind-idle-control): Per-session idle inhibitors over D-Bus <sub>[v0.2.2](https://github.com/MasonRhodesDev/logind-idle-control/releases/latest) · pushed today</sub>
+- [**hypr-DE**](https://github.com/MasonRhodesDev/hypr-DE): Alpha desktop composition — not ready; the tools above have to stabilize first <sub>[v0.2.8](https://github.com/MasonRhodesDev/hypr-DE/releases/latest) · pushed today</sub>
 
 ## 🎮 The Couch Gaming Stuff
 
@@ -41,9 +41,9 @@ TypeScript at [LifeMD](https://lifemd.com) during the day. Outside of work I bui
 
 - [**arch-repo**](https://github.com/MasonRhodesDev/arch-repo): Signed pacman repo on GitHub Pages, where the tools above ship from <sub>pushed today</sub>
 - [**packaging-workflows**](https://github.com/MasonRhodesDev/packaging-workflows): Reusable GH Actions for Arch + COPR packaging <sub>pushed today</sub>
-- [**monitor-profiles**](https://github.com/MasonRhodesDev/monitor-profiles): Neutral monitor layout profiles shared by session and login <sub>[v0.1.0](https://github.com/MasonRhodesDev/monitor-profiles/releases/latest) · pushed yesterday</sub>
-- [**slint-kit**](https://github.com/MasonRhodesDev/slint-kit): Shared Slint theme and LMTT Material You tokens <sub>[v0.2.0](https://github.com/MasonRhodesDev/slint-kit/releases/latest) · pushed today</sub>
-- [**dotfiles**](https://github.com/MasonRhodesDev/dotfiles): The config tying everything together <sub>pushed yesterday</sub>
+- [**monitor-profiles**](https://github.com/MasonRhodesDev/monitor-profiles): Neutral monitor layout profiles shared by session and login <sub>[v0.1.0](https://github.com/MasonRhodesDev/monitor-profiles/releases/latest) · pushed 2d ago</sub>
+- [**slint-kit**](https://github.com/MasonRhodesDev/slint-kit): Shared Slint theme and LMTT Material You tokens <sub>[v0.2.0](https://github.com/MasonRhodesDev/slint-kit/releases/latest) · pushed yesterday</sub>
+- [**dotfiles**](https://github.com/MasonRhodesDev/dotfiles): The config tying everything together <sub>pushed 2d ago</sub>
 <!-- PROJECTS:END -->
 
 ## ⬇️ Run It Yourself
@@ -75,11 +75,11 @@ Then `sudo pacman -Syu` and install the individual tools (`hyprstate`, `vigil`, 
 ## 🚀 Recent Releases
 
 <!-- RELEASES:START -->
-- [**linux-multi-theme-toggle** v0.2.2](https://github.com/MasonRhodesDev/linux-multi-theme-toggle/releases/tag/v0.2.2) <sub>today</sub>
-- [**hypr-de-extras** v0.6.6](https://github.com/MasonRhodesDev/hypr-de-extras/releases/tag/v0.6.6) <sub>today</sub>
-- [**hyprstate-gui** v0.3.0](https://github.com/MasonRhodesDev/hyprstate-gui/releases/tag/v0.3.0) <sub>yesterday</sub>
-- [**hyprstate** v2.2.0](https://github.com/MasonRhodesDev/hyprstate/releases/tag/v2.2.0) <sub>yesterday</sub>
-- [**vigil** v0.2.5](https://github.com/MasonRhodesDev/vigil/releases/tag/v0.2.5) <sub>yesterday</sub>
+- [**vigil** v0.2.8](https://github.com/MasonRhodesDev/vigil/releases/tag/v0.2.8) <sub>today</sub>
+- [**waybar-workspace-buttons** v1.0.3](https://github.com/MasonRhodesDev/waybar-workspace-buttons/releases/tag/v1.0.3) <sub>today</sub>
+- [**hypr-DE** v0.2.8](https://github.com/MasonRhodesDev/hypr-DE/releases/tag/v0.2.8) <sub>today</sub>
+- [**hyprland-voice-dictation** v0.5.2](https://github.com/MasonRhodesDev/hyprland-voice-dictation/releases/tag/v0.5.2) <sub>today</sub>
+- [**hyprstate-gui** v0.3.2](https://github.com/MasonRhodesDev/hyprstate-gui/releases/tag/v0.3.2) <sub>today</sub>
 <!-- RELEASES:END -->
 
 ---
